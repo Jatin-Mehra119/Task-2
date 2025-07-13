@@ -36,6 +36,7 @@
 - `alerts_log.json`: Log of alert events.
 - `alerts_timeline.png`: Visualization of alert timeline.
 - `requirements.txt`: List of required Python packages.
+- Video:https://drive.google.com/drive/folders/1owdeqkyFKDBJag7jL_6yaZZH_vP9_B-z?usp=sharing
 
 ## Notes
 - Press 'q' during video playback to exit early.
